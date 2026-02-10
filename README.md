@@ -1,1 +1,1 @@
-wordpress imaage optimizer
+wordpress image optimizer
